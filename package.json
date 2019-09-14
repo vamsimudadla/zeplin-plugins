@@ -1,0 +1,26 @@
+{
+  "name": "rn-text-styles",
+  "version": "0.1.0",
+  "description": "Zeplin extension that generates react native Text styled components",
+  "scripts": {
+    "start": "zem start",
+    "build": "zem build",
+    "clean": "zem clean",
+    "exec": "zem exec",
+    "publish": "zem publish"
+  },
+  "author": {
+    "name": "Vamsi Mudadla"
+  },
+  "zeplin": {
+    "displayName": "React Native Text Styles",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  "dependencies": {
+    "zem": "0.4.4"
+  }
+}
